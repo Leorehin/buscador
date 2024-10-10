@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Primeiro app em ReactJS e NodeJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto visa criar um app de buscador de ceps em interface web e integração com api externa para busca de dados em formato json.
+Abaixo deixarei as informações padrão do README para futuras consultas
 
 ## Available Scripts
 
